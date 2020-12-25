@@ -1,4 +1,10 @@
 #### Note: This project is developed using Tuya App SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices. For more information, please check [Tuya Developer Website](https://developer.tuya.com/en/docs/iot/app-development/sdk-development/app-sdk-instruction?id=K9kjstc7t376p).
+
+![微信图片_20201225145741.jpg](./images/微信图片_20201225145741.jpg)
+![微信图片_20201225145735.jpg](./images/微信图片_20201225145735.jpg)
+![微信图片_20201225145745.jpg](./images/微信图片_20201225145745.jpg)
+![微信图片_20201225145750.jpg](./images/微信图片_20201225145750.jpg)
+
 ## Tuya Smart Android SDK
 
 [![CircleCI](https://circleci.com/gh/TuyaInc/tuyasmart_home_android_sdk/tree/master.svg?style=svg)](https://circleci.com/gh/TuyaInc/tuyasmart_home_android_sdk/tree/master)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![version](https://img.shields.io/badge/release-3.20.0-brightgreen)](https://tuyainc.github.io/tuyasmart_home_android_sdk_doc/zh-hans/resource/Update_Log.html)[![version](https://img.shields.io/badge/docs-brightgreen)](https://tuyainc.github.io/tuyasmart_home_android_sdk_doc/)
