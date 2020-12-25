@@ -1,3 +1,6 @@
+# 本项目为基于涂鸦智能Android SDK的智能灯控制APP，使用涂鸦提供的demo修改编译！
+编译方法请参考项目截图
+
 # 涂鸦智能Android SDK
 
 [![CircleCI](https://circleci.com/gh/TuyaInc/tuyasmart_home_android_sdk/tree/master.svg?style=svg)](https://circleci.com/gh/TuyaInc/tuyasmart_home_android_sdk/tree/master)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![version](https://img.shields.io/badge/release-3.20.0-brightgreen)](https://tuyainc.github.io/tuyasmart_home_android_sdk_doc/zh-hans/resource/Update_Log.html)[![version](https://img.shields.io/badge/docs-brightgreen)](https://tuyainc.github.io/tuyasmart_home_android_sdk_doc/)
