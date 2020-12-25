@@ -12,7 +12,7 @@ For more information, please check [Tuya Developer Website](https://developer.tu
 ![Snipaste_2020-12-25_09-41-27.png](./images/Snipaste_2020-12-25_09-41-27.png)
 根据业务需求，勾选配置，并下载SDK
 ![Snipaste_2020-12-25_09-42-10.png](./images/Snipaste_2020-12-25_09-42-10.png)
-保存包名、AppKey、AppSecret，以及下载安全图备用
+2.保存包名、AppKey、AppSecret，以及下载安全图备用
 ![Snipaste_2020-12-25_10-20-09.png](./images/Snipaste_2020-12-25_10-20-09.png)
 ![Snipaste_2020-12-25_10-17-11.png](./images/Snipaste_2020-12-25_10-17-11.png)
 ![Snipaste_2020-12-25_10-11-26.png](./images/Snipaste_2020-12-25_10-11-26.png)
