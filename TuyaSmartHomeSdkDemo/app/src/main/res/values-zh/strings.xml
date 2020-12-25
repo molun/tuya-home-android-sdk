@@ -61,7 +61,7 @@
     <string name="login_password">登录密码</string>
     <string name="login_register">注册</string>
     <string name="login_space">|</string>
-    <string name="login_tip">涂鸦，你的云端智能生活</string>
+    <string name="login_tip">默语智家，开启你的智能新生活</string>
     <string name="my_smart_home_prepare">我的设备(预发)</string>
     <string name="never_bind">未绑定</string>
     <string name="no_timer_list_tip">自动模式已开启，请添加定时</string>
@@ -189,7 +189,7 @@
     <string name="add_new_user_tip">添加新成员使用智能设备</string>
     <string name="add_next_device">再添加一个</string>
     <string name="ap_mode">热点模式</string>
-    <string name="app_name">涂鸦测试</string>
+    <string name="app_name">默语智家</string>
     <string name="bind_device_cancel">否</string>
     <string name="bind_device_confirm">是</string>
     <string name="bind_device_failure"><![CDATA[<font color="#FF5800">查看可能失败的原因</font>]]></string>
@@ -228,7 +228,7 @@
     </string>
     <string name="control_data_error">DP格式错误</string>
     <string name="control_data_error_code">11001</string>
-    <string name="copy_right">©2015 Tuya Inc. All Rights Reserved</string>
+    <string name="copy_right">©2021 MolunSmartHome All Rights Reserved</string>
     <string name="current_version">当前版本</string>
     <string name="custom_day">自定义</string>
     <string name="delete_member_tips">确认不再共享设备给%s?</string>

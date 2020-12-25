@@ -1,12 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 28
-    buildToolsVersion "28.0.3"
+    compileSdkVersion 30
+    buildToolsVersion "30.0.3"
     defaultConfig {
-        applicationId "com.test.homesdkdemo"
+        applicationId "com.molun.smart"
         minSdkVersion 19
-        targetSdkVersion 28
+        targetSdkVersion 30
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
@@ -14,6 +14,12 @@ android {
         ndk {
             abiFilters "armeabi-v7a", "arm64-v8a"
         }
+    }
+    android.applicationVariants.all{
+        variant ->
+            variant.outputs.all{
+                outputFileName = "MolunSmartHome.apk"
+            }
     }
     buildTypes {
         debug {
@@ -67,9 +73,9 @@ android {
         //***** required ****//
 
         //***** not required ****//
-        implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.0.0'
+        implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
         implementation 'androidx.appcompat:appcompat:1.2.0'
-        implementation 'androidx.constraintlayout:constraintlayout:2.0.1'
+        implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
         implementation 'org.greenrobot:eventbus:3.0.0'
         implementation 'com.wnafee:vector-compat:1.0.5'
         implementation 'com.jakewharton:butterknife:10.0.0'
@@ -102,7 +108,7 @@ android {
 
         // For QRCode Login
         implementation 'com.google.zxing:core:3.3.3'
-        implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.72"
+        implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.4.20"
         implementation 'com.tuya.smart:tuyasmart-centralcontrol:1.0.3'
 
         //***** not required ****//

@@ -39,10 +39,10 @@
         tools:replace="android:allowBackup">
         <meta-data
             android:name="TUYA_SMART_APPKEY"
-            android:value="YOUR TUYA_SMART_APPKEY !" />
+            android:value="aywppnknxgp4r3mjdcqm" />
         <meta-data
             android:name="TUYA_SMART_SECRET"
-            android:value="YOUR TUYA_SMART_SECRET !" />
+            android:value="w5mvk5vc547nr8u5y58kac89ygsvrdps" />
 
         <activity
             android:name=".base.activity.SplashActivity"
