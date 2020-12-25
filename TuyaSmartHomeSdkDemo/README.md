@@ -8,3 +8,4 @@ For more information, please check [Tuya Developer Website](https://developer.tu
 ![image-20191101112723293](./images/image-20191101112723293.png)
 ![image-20191101112851418](./images/image-20191101112851418.png)
 ![image-20191101113051694](./images/image-20191101113051694.png)
+![Snipaste_2020-12-25_10-17-11.png](./images/Snipaste_2020-12-25_10-17-11.png)
