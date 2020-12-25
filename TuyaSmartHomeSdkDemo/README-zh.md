@@ -1,4 +1,4 @@
-# 涂鸦智能Android SDK
+# 基于涂鸦智能Android SDK编译的智能灯APP
 
 ---
 
@@ -11,6 +11,6 @@
 - 家庭体系 （家庭管理，房间管理等功能）
 - 涂鸦云HTTP API接口封装 (参见[涂鸦云api调用](https://docs.tuya.com/cn/cloudapi/appAPI/index.html))
 
-
+编译过程，请参考项目内截图！
 
 更多文档请参考：[涂鸦智能Android SDK](https://tuyainc.github.io/tuyasmart_home_android_sdk_doc/zh-hans/)
